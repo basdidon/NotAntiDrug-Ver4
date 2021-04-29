@@ -45,23 +45,32 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: BG
-    uniqueID: 3971469705
-    locked: 0
   - name: oldMap
     uniqueID: 1542179935
     locked: 0
-  - name: IndoorBGTile
+  - name: Background
+    uniqueID: 3971469705
+    locked: 0
+  - name: Water
+    uniqueID: 3849679195
+    locked: 0
+  - name: Background_back_prop
     uniqueID: 952712505
     locked: 0
-  - name: IndoorTile
+  - name: Background_middle_prop
     uniqueID: 2612147733
     locked: 0
-  - name: IndoorTile_1
+  - name: Background_front_prop
     uniqueID: 1346665435
+    locked: 0
+  - name: OnewayPlatform
+    uniqueID: 525391317
     locked: 0
   - name: WolrdTile
     uniqueID: 2863410561
+    locked: 0
+  - name: Door
+    uniqueID: 703560193
     locked: 0
   - name: GameObject
     uniqueID: 1855837945
@@ -89,4 +98,7 @@ TagManager:
     locked: 0
   - name: IngameUI
     uniqueID: 3329892411
+    locked: 0
+  - name: Spike
+    uniqueID: 339494631
     locked: 0
